@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926874875328",
+    "project_id": "openai-8c724",
+    "storage_bucket": "openai-8c724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926874875328:android:093c90d48e343d17fd4425",
+        "android_client_info": {
+          "package_name": "com.example.openai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2UGH5hyAYvKYe4ZicmKuKGvjdXO0Teo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
